@@ -1,7 +1,7 @@
-Daten nutzen
+CorrelLAB-Grundkurs
 ================
 
-Dieses Repository enthält die Skripte und Code Beispiele zum Kurs "Daten nutzen" von CorrelAid.
+Dieses Repository enthält die Skripte und Code Beispiele zum Kurs "CorrelLAB-Grundkurs" von CorrelAid.
 
 # Setup
 
